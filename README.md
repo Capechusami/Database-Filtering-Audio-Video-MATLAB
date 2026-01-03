@@ -123,7 +123,7 @@ This project successfully demonstrates **database filtering techniques for audio
 
 ---
 
-## 👥 Authors
+## 👥 Author
 
 * Samuel Tesfachew
 
