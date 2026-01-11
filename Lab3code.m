@@ -31,7 +31,7 @@ sound(filteredAudio, fs);
 % Save filtered audio
 audiowrite('filtered_audio.wav', filteredAudio, fs);
 
-%% ===== AUDIO VERIFICATION =====
+%% ===== AUDIO VERIFICATION with Figures Output =====
 
 % Waveform comparison
 figure;
@@ -117,3 +117,4 @@ if stdFiltered < stdOriginal
 else
     disp('Check filter parameters.');
 end
+
